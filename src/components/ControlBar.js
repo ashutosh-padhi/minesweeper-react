@@ -54,7 +54,7 @@ export default class ControlBar extends React.Component {
         return (
             <div className="flex m-2 items-center">
                 <img
-                    src="/logo192.png"
+                    src="./logo192.png"
                     className="w-[32px] rounded mr-3"
                     alt="minesweeper logo"
                 />
@@ -76,13 +76,13 @@ export default class ControlBar extends React.Component {
                 </span>
 
                 <img
-                    src="/images/bomb.png"
+                    src="./images/bomb.png"
                     className="w-[30px] ml-2"
                     alt="bomb"
                 ></img>
                 <span className="text-2xl ml-1">{this.props.bombs}</span>
                 <img
-                    src="/images/stopwatch.png"
+                    src="./images/stopwatch.png"
                     className="w-[30px] ml-2"
                     alt="stopwatch"
                 ></img>

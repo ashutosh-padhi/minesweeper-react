@@ -2,7 +2,7 @@ export default function Setup(props) {
     return (
         <div className="w-full flex items-center flex-col">
             <img
-                src="/logo512.png"
+                src="./logo512.png"
                 className="w-[150px] rounded mt-4"
                 alt="minesweeper logo"
             />
