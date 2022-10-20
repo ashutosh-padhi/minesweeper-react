@@ -8,16 +8,12 @@ A trivial implementation of minesweeper game in **React**. I have made this to s
 
 ## Getting Started
 
----
-
 1. clone the repo
 2. `npm start`
 
 This react app is not ejected so all valid react commands will work here too.
 
 ## Screenshots of a typical game play
-
----
 
 <p align="center">
         <img src="./public/images/minesweeper-react-web-1.png" width=500/>
